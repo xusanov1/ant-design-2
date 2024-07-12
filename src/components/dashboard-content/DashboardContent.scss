@@ -1,0 +1,11 @@
+span[data-td-item="description"]{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+tbody .td-item{
+    padding: 5px; 
+    vertical-align: middle;
+}
